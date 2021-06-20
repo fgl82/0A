@@ -1,5 +1,9 @@
 ## 0A SimpleMenu Theme
 
+Based on the Pixel theme for GMenu2X, by RafaVico
+
+---
+
 ### License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
@@ -25,4 +29,3 @@ By downloading and installing this theme it will be assumed that you own and pos
 ### Thanks and Credits
 
 All original artwork belongs to the artists who devoted their talents and time into making them.
-Based on the Pixel theme for GMenu2X, by RafaVico
